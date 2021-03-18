@@ -1,1 +1,2 @@
-# Maze-own
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
